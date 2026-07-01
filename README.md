@@ -1,9 +1,6 @@
-<div align="center">
-
-<img src="welcome.png" width="900" alt="Welcome"/>
-
-<br><br>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700" alt="Welcome GIF">
+</p>
 <h1>👋 Hi, I'm Vimal Raj R</h1>
 
 <h3>Software Engineer • Java Developer • AI Enthusiast</h3>
