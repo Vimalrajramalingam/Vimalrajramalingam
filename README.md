@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700" alt="Welcome GIF">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAi/happy-welcome.gif" width="450" alt="Welcome">
 </p>
 <h1>👋 Hi, I'm Vimal Raj R</h1>
 
